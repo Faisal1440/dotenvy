@@ -7,9 +7,9 @@ dotEnvy is free and open source! Do with it what you please.
 
 # Install 
 
-1. Install from the Releases Page
+x1. Install from the Releases Page
 
-2. Build Locally: 
+x2. Build Locally: 
 
 - ```npm i```
 
